@@ -16,7 +16,9 @@ At my core, I'm a thinker. I'm passionate about solving problems, understanding 
 
 ## 📊 **GitHub Stats**
 
-![Eliallah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliallahDadzie&show_icons=true&theme=radical&hide_border=true)
+![Eliallah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliallahDadzie&show_icons=true&theme=rose_pine&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliallahDadzie&layout=compact&theme=rose_pine&hide_border=true)
 
 ---
 
