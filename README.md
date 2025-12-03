@@ -1,15 +1,23 @@
-## Hi there 👋
-I'm Eliallah (eh-lee-AH-lah) -  a Ghanaian American who's equally obsessed with tech and the everyday things that keep me grounded: long runs, a good makeup routine, and hosting people I love. Those moments remind me that while I'm super ambitious, I'm also human.
+## 🌸 **Hi there 👋**
 
-At my core, I'm a thinker. I'm passionate about solving problems, understanding the why and how behind how systems work, and creating tools that blend creativity and real-world impact.
+I'm Eliallah (eh-lee-AH-lah) — a Ghanaian American who's equally obsessed with tech and the everyday things that keep me grounded: long runs, a good makeup routine, and hosting people I love. Those moments remind me that while I'm super ambitious, I'm also human.
 
-## 
-My Goals
-Strengthen my skills in software development and data analysis
-Contribute to projects that help small businesses and underrepresented communities
-Build a clean professional portfolio that reflects who I am
+At my core, I'm a thinker. I'm passionate about solving problems, understanding the *why* and *how* behind how systems work, and creating tools that blend creativity, logic, and real-world impact.
 
-Let's Connect
+---
+
+## 🎀 **My Goals**
+
+- 🌱 Strengthen my skills in software development and data analysis  
+- 🤝 Contribute to projects that support small businesses and underrepresented communities  
+- 💼 Build a clean, professional portfolio that reflects who I am  
+
+---
+
+## 💖 **Let's Connect**
+
+More coming soon ✨
+
 
 <!--
 **Eliallah/Eliallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
