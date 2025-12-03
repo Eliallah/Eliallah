@@ -16,8 +16,7 @@ At my core, I'm a thinker. I'm passionate about solving problems, understanding 
 
 ## 💖 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliallahdadzie2002/)  
-[![Email](https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elidadzie2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliallahdadzie2002/)  [![Email](https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elidadzie2@gmail.com)
 
 
 
