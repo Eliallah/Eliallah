@@ -1,4 +1,7 @@
-![Pink Banner](https://link-to-your-image.com/banner.png)
+<!-- Custom GitHub Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Welcome,%20I'm%20Eliallah!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=center" alt="Banner" />
+</p>
 
 ## 🌸 **Hi there 👋**
 
