@@ -1,3 +1,5 @@
+![Pink Banner](https://link-to-your-image.com/banner.png)
+
 ## 🌸 **Hi there 👋**
 
 I'm Eliallah (eh-lee-AH-lah) — a Ghanaian American who's equally obsessed with tech and the everyday things that keep me grounded: long runs, a good makeup routine, and hosting people I love. Those moments remind me that while I'm super ambitious, I'm also human.
@@ -11,12 +13,6 @@ At my core, I'm a thinker. I'm passionate about solving problems, understanding 
 - 🌱 Strengthen my skills in software development and data analysis  
 - 🤝 Contribute to projects that support small businesses and underrepresented communities  
 - 💼 Build a clean, professional portfolio that reflects who I am  
-
----
-
-## 📊 **GitHub Stats**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=rose-pine)
 
 ---
 
