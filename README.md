@@ -7,7 +7,7 @@
 
 ## 🌸 **Hi there 👋**
 
-I'm Eliallah (eh-lee-AH-lah) — a Ghanaian American who's obsessed with tech and the everyday things that keep me grounded: long runs, a good makeup routine, and hosting people I love. Those moments remind me that while I'm super ambitious, I'm also human.
+I'm Eliallah (eh-lee-AH-lah) — a Ghanaian American who loves tech and the everyday things that keep me grounded: long runs, a good makeup routine, and hosting people I love. Those moments remind me that while I'm super ambitious, I'm also human.
 
 At my core, I'm a chronic thinker who's passionate about solving problems, understanding the *why* and *how* behind how systems work, and creating tools that blend creativity, logic, and real-world impact.
 
